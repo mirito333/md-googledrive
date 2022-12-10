@@ -10,7 +10,7 @@
     components: { MarkDownVue },
     data(){
       return {
-        filepath: 'index.md'
+        filepath: 'subpage.md'
       }
     }
   }
